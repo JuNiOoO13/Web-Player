@@ -202,11 +202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\WebPlayer.csproj",
+      "projectUniqueName": "C:\\Users\\junio\\Desktop\\Nova pasta (3)\\Web-Player\\WebPlayer\\WebPlayer.csproj",
       "projectName": "WebPlayer",
-      "projectPath": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\WebPlayer.csproj",
+      "projectPath": "C:\\Users\\junio\\Desktop\\Nova pasta (3)\\Web-Player\\WebPlayer\\WebPlayer.csproj",
       "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\obj\\",
+      "outputPath": "C:\\Users\\junio\\Desktop\\Nova pasta (3)\\Web-Player\\WebPlayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",

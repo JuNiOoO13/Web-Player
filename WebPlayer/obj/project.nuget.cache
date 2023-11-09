@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2JoOsh5NqgpVZc/XWpazxfsV8aD8HD6zouhp2/p6LN3c/p+xGes+sNSdwgPhym40IyNofH+asgce0w6FiHxM3A==",
+  "dgSpecHash": "XaYtbwulG9BjIhnW6AFCZ37cuFJ3eopM6X9XLZ8a8+mGULNJnvioTDcZ7KLRd2AcyQiTr12cekJsMYehQYwbdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\WebPlayer.csproj",
+  "projectFilePath": "C:\\Users\\junio\\Desktop\\Nova pasta (3)\\Web-Player\\WebPlayer\\WebPlayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\junio\\.nuget\\packages\\anglesharp\\1.0.4\\anglesharp.1.0.4.nupkg.sha512",
     "C:\\Users\\junio\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
