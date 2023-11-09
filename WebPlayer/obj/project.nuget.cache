@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2JoOsh5NqgpVZc/XWpazxfsV8aD8HD6zouhp2/p6LN3c/p+xGes+sNSdwgPhym40IyNofH+asgce0w6FiHxM3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\WebPlayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\junio\\.nuget\\packages\\anglesharp\\1.0.4\\anglesharp.1.0.4.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
+    "C:\\Users\\junio\\.nuget\\packages\\youtubeexplode\\6.3.1\\youtubeexplode.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebPlayer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebPlayer.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Imagens\\download.jpg",
+      "PackagePath": "staticwebassets\\Imagens\\download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\1 hora dos melhores raps do MHRAP.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\1 hora dos melhores raps do MHRAP.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Believer (Live in Vegas). watch the rest of the film on Hulu now. #shorts #imaginedragons #believer.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Believer (Live in Vegas). watch the rest of the film on Hulu now. #shorts #imaginedragons #believer.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\DEPOIS DA MURALHA - LIVE SESSION - CHAGAS SOBRINHO.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\DEPOIS DA MURALHA - LIVE SESSION - CHAGAS SOBRINHO.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Ed Sheeran - Photograph (Official Music Video).mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Ed Sheeran - Photograph (Official Music Video).mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Eiffel 65 - Blue (KNY Factory Remix).mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Eiffel 65 - Blue (KNY Factory Remix).mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Eurythmics - Sweet Dreams (Lyrics).mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Eurythmics - Sweet Dreams (Lyrics).mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Eurythmics, Annie Lennox, Dave Stewart - Sweet Dreams (Are Made Of This) (Official Video).mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Eurythmics, Annie Lennox, Dave Stewart - Sweet Dreams (Are Made Of This) (Official Video).mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Imagine Dragons - Bones (Official Music Video).mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Imagine Dragons - Bones (Official Music Video).mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Imagine Dragons - I'm Happy (Live In Vegas) (Official Audio).mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Imagine Dragons - I'm Happy (Live In Vegas) (Official Audio).mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Imagine Dragons - Thunder (Live In Vegas) (Official Audio).mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Imagine Dragons - Thunder (Live In Vegas) (Official Audio).mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\LUAN PEREIRA, @MCRyanSP - ELA PIROU NA DODGE RAM (OFICIAL).mp3",
+      "PackagePath": "staticwebassets\\Musicas\\LUAN PEREIRA, @MCRyanSP - ELA PIROU NA DODGE RAM (OFICIAL).mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Libertina.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Libertina.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Lil Nas X - MONTERO (Call Me By Your Name) (Official Video).mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Lil Nas X - MONTERO (Call Me By Your Name) (Official Video).mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Lil Nas X, Jack Harlow - INDUSTRY BABY (Official Video).mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Lil Nas X, Jack Harlow - INDUSTRY BABY (Official Video).mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Marco Brasil Filho - Welcome To The Mato ft. Dj Kevin (Clipe Oficial).mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Marco Brasil Filho - Welcome To The Mato ft. Dj Kevin (Clipe Oficial).mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\O MELHOR LEAVE-IN DE TATAMENTO DR. PAWPAW 7 IN 1 MULTIFUNCIONAL - ESTOU APAIXONADO - DENISON DIAMOND.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\O MELHOR LEAVE-IN DE TATAMENTO DR. PAWPAW 7 IN 1 MULTIFUNCIONAL - ESTOU APAIXONADO - DENISON DIAMOND.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\O dia que o TK foi comprar uma pizza e o MHRap fez uma música.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\O dia que o TK foi comprar uma pizza e o MHRap fez uma música.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Quit SUGAR for 7 Days and Watch These MIRACLES Happen!  Dr. Mandell.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Quit SUGAR for 7 Days and Watch These MIRACLES Happen!  Dr. Mandell.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Rap do Sharingan (Naruto) - CUIDADO COM OS MEUS OLHOS  NERD HITS.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Rap do Sharingan (Naruto) - CUIDADO COM OS MEUS OLHOS  NERD HITS.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Retorno Rengoku.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Retorno Rengoku.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\SHARINGAN ✨ (NARUTO) KAKASHI RAP  Style Trap  Prod. Ihaksi  MHRAP.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\SHARINGAN ✨ (NARUTO) KAKASHI RAP  Style Trap  Prod. Ihaksi  MHRAP.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Sharingan \uD83D\uDCA5 (Naruto)  Kakashi Trap NERD  MHRAP.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Sharingan \uD83D\uDCA5 (Naruto)  Kakashi Trap NERD  MHRAP.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Teto - M4 feat. Matuê.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Teto - M4 feat. Matuê.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Tipo Kakashi (Lyric Video)  Trap Nerd  MHRAP.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Tipo Kakashi (Lyric Video)  Trap Nerd  MHRAP.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Tipo Minato ⚡️ (Naruto)  Style Trap  Prod. Sidney Scaccio  MHRAP.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Tipo Minato ⚡️ (Naruto)  Style Trap  Prod. Sidney Scaccio  MHRAP.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Tipo Tobi \uD83C\uDF00 (Naruto)  Style Trap  Prod. Sidney Scaccio  MHRAP.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Tipo Tobi \uD83C\uDF00 (Naruto)  Style Trap  Prod. Sidney Scaccio  MHRAP.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\VMZ - A Prova de Balas.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\VMZ - A Prova de Balas.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\VMZ - Baka  Prod. Jow Santh.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\VMZ - Baka  Prod. Jow Santh.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\VMZ - Chainsaw Man \uD83C\uDF63.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\VMZ - Chainsaw Man \uD83C\uDF63.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\VMZ - Entre Raios  Feat. Tauz  Lyric Vídeo.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\VMZ - Entre Raios  Feat. Tauz  Lyric Vídeo.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\VMZ - Luzes no Céu ✨.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\VMZ - Luzes no Céu ✨.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\VMZ - Minhas Sombras  Lyric Vídeo.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\VMZ - Minhas Sombras  Lyric Vídeo.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\VMZ - Mundo Da Lua  Lyric Vídeo.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\VMZ - Mundo Da Lua  Lyric Vídeo.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\VMZ - Não Vou Me Render (Genshin Impact) Feat. Jow Santh.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\VMZ - Não Vou Me Render (Genshin Impact) Feat. Jow Santh.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\VMZ - Plutão.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\VMZ - Plutão.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\VMZ - Rascunho Bendy.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\VMZ - Rascunho Bendy.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\VMZ - Retorno Rengoku \uD83D\uDD25  Prod. Blxck   REAÇÃO  INDI JADE.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\VMZ - Retorno Rengoku \uD83D\uDD25  Prod. Blxck   REAÇÃO  INDI JADE.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\VMZ - Retorno Rengoku \uD83D\uDD25  Prod. Blxck.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\VMZ - Retorno Rengoku \uD83D\uDD25  Prod. Blxck.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\VMZ - Suzume.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\VMZ - Suzume.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\VMZ - Toman Feat. MHRAP.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\VMZ - Toman Feat. MHRAP.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\Welcome To The Mato.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\Welcome To The Mato.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\\uD83C\uDFA7✨\uD83D\uDCAB VMZ Mix \uD83E\uDE90\uD83C\uDF26️⚡ (músicas do VmZplaylist).mp3",
+      "PackagePath": "staticwebassets\\Musicas\\\uD83C\uDFA7✨\uD83D\uDCAB VMZ Mix \uD83E\uDE90\uD83C\uDF26️⚡ (músicas do VmZplaylist).mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\Musicas\\\uD83D\uDD34Rap Ansiedade Crise Existencial  Noragami - Violet Evergarden- Gate  VMZ Feat Wind.mp3",
+      "PackagePath": "staticwebassets\\Musicas\\\uD83D\uDD34Rap Ansiedade Crise Existencial  Noragami - Violet Evergarden- Gate  VMZ Feat Wind.mp3"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\junio\\source\\repos\\WebPlayer\\WebPlayer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebPlayer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebPlayer.props",
+      "PackagePath": "build\\WebPlayer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebPlayer.props",
+      "PackagePath": "buildMultiTargeting\\WebPlayer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebPlayer.props",
+      "PackagePath": "buildTransitive\\WebPlayer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

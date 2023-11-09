@@ -1,0 +1,20 @@
+﻿@model List<SearchResultViewModel>;
+@{
+	ViewData["Title"] = "SearchResult";
+}
+
+
+
+<div class="SearchContainer">
+	@foreach(var item in Model)
+	{
+
+			<button class="gridItem" type="submit" value="@item.Code" onclick="searchClick(this)">
+				<img src="@item.thumbnail">
+				<div class="infosContainer">
+					<p class="nome">@item.Nome</p>
+					<p id="authorName" class="autor">@item.Author</p>
+				</div>
+			</button>
+	}
+</div>

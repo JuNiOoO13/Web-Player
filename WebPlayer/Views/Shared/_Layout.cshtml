@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br" >
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - WebPlayer</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/WebPlayer.styles.css" asp-append-version="true" />
+</head>
+<body >
+
+    <nav class="navBar">
+        <div class="homeButton" onclick="GoToHome()">
+            <i class="fa-solid fa-house" style="font-size:25pt;"></i>
+        </div>
+        <div class="searchBar">
+            <input type="text" id="searchBar"placeholder="Search Music..."/>
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </div>
+        
+    </nav>
+        
+    <main class="MainContent">
+        @RenderBody()
+    </main>
+     
+
+
+    <div class="player" id="playerBar">
+        <audio id="audioPlayer" >
+            <source  id ="atualMusic" src="" type="audio/mpeg">
+
+        </audio>
+
+        <div class="controlsContainer">
+            <div class="InfosContainer">
+                <img id="musicImg"src="" alt="">
+                <div class="InfoMusicContainer">
+                    <p class="MusicName" id="musicName"></p>
+                    <p class="SingerName" id="singerName"></p>
+                </div>
+
+                <button class="addMusicLib">
+                    <i class="fa-regular fa-heart"></i>
+                </button>
+            </div>
+            <div class="ReprodutionContainer">
+                <div class="buttonsContainer">
+                    <div class="buttons">
+                        <button class="StepButton">
+                            <i class="fa-solid fa-backward-step"></i>
+                        </button>
+                        <button class="ReprodutionButton" onclick="StopAndPlay()">
+                            <i class="fa-solid fa-play" id="play-button"></i>
+                        </button>
+                        <button class="StepButton">
+                            <i class="fa-solid fa-forward-step"></i>
+                        </button>
+                    </div>
+
+
+                </div>
+                <div class="progressContainer" style="display:flex; align-items:center; ">
+                    <p style="margin:auto 5px; font-size:10pt; color:white" id="atualTime">0:00</p>
+                    <div class="progress-bar-container" id="progress-bar-container">
+                        
+                        <div id="pointer" class="pointer"></div>
+                        <div class="total-ProgressBar"></div>
+                        <div id="progress-bar" class="progress-bar"/>
+                    </div>
+                </div>
+            </div>
+                
+            </div>
+
+            <div class="ConfigsContainer">
+
+                <div class="VolumeContainer">
+                    <i class="fa-solid fa-volume-high" id="volumeSymbol"></i>
+                    <div class="VolumeBar" id="total-ProgressBarVolume">
+                        <div class="bar">
+                            <div class="progress-barVolume" id="progress-barVolume"></div>
+                        </div>
+                        <div class="pointerVolume" id="pointerVolume"></div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="https://kit.fontawesome.com/4029ae22fe.js" crossorigin="anonymous"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
